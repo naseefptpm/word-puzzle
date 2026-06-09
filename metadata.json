@@ -1,0 +1,6 @@
+{
+  "name": "Word Quest",
+  "description": "Daily word challenges, puzzles, profile customization, and competitive leaderboards with sharing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
